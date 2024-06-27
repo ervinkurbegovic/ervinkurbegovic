@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ervinkurbegovic
-- 👀 I’m interested in Python, Blockchain, Postgres, MongoDB and data science in general
-- 🌱 I’m currently learning Python, Pandas and PlotlyExpress
-- 💞️ I’m looking to collaborate on projects in the field of education aimed for schools, teachers and students.
+- 👀 I’m interested in Python, Blockchain, Postgres, MongoDB, and Data Science in general
+- 🌱 I’m currently learning Python and in particular Pandas, PlotlyExpress, sklearn, keras vs pytorch, and REST API (FastAPI)
+- 💞️ I’m looking to collaborate on projects in education aimed at schools, teachers, and students.
 - 📫 How to reach me ...
 
 <!---
